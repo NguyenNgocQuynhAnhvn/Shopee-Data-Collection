@@ -1,0 +1,181 @@
+# Page 0
+# Page 1
+# Page 2
+# Page 3
+# Page 4
+# Page 5
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 0
+# Page 0
+# Page 0
+# Page 1
+# Page 2
+# Page 3
+# Page 4
+# Page 5
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 0
+# Page 0
+# Page 0
+Scraping https://shopee.vn/Máy-Tính-Laptop-cat.11035954?page=0
+Scraping https://shopee.vn/Máy-Tính-Laptop-cat.11035954?page=1
+Lỗi khi scraping sản phẩm https://shopee.vn/%E1%BB%94-%C4%91%C4%A9a-Flash-Xiaomi-USB-2TB-1TB-512GB-256GB-128GB-Tr%C3%ACnh-%C4%91i%E1%BB%81u-khi%E1%BB%83n-Flash-t%E1%BB%91c-%C4%91%E1%BB%99-cao-b%E1%BA%B1ng-kim-lo%E1%BA%A1i-ch%E1%BB%91ng-n%C6%B0%E1%BB%9Bc-1GB-2GB-4GB-8GB-16GB-32GB-64GB-Th%E1%BA%BB-nh%E1%BB%9B-Th%C3%ADch-h%E1%BB%A3p-cho-PC-Laptop-Thi%E1%BA%BFt-k%E1%BA%BF-truy%E1%BB%81n-%C4%91%E1%BB%99ng-i.805885415.12298850963?sp_atk=747be545-eedd-475b-b776-7c3965e335ac&xptdk=747be545-eedd-475b-b776-7c3965e335ac: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Lỗi khi scraping sản phẩm https://shopee.vn/Tai-nghe-bass-m%E1%BA%A1nh-m%E1%BA%BD-Tai-Nghe-Gaming-C%C3%B3-D%C3%A2y-Nh%C3%A9t-Tai-Ch%C6%A1i-Game-Ch%E1%BB%91ng-%E1%BB%92n-C%C3%B3-Mic-In-Ear-Cho-android-16-i.484644461.11947815158?sp_atk=b47efbf6-aa57-4ff3-b587-dbcbb2ae21a7&xptdk=b47efbf6-aa57-4ff3-b587-dbcbb2ae21a7: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Lỗi khi scraping sản phẩm https://shopee.vn/Chu%E1%BB%99t-HP-X500-C%C3%B3-D%C3%A2y-H%C3%A0ng-Nh%E1%BA%ADp-Kh%E1%BA%A9u-Full-Box-M%E1%BB%9Bi-100-B%E1%BA%A3o-H%C3%A0nh-12-th%C3%A1ng-i.40850068.20156561898?sp_atk=45a4ad7c-bdb7-47e1-93a5-179a5dbfe954&xptdk=45a4ad7c-bdb7-47e1-93a5-179a5dbfe954: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Lỗi khi scraping sản phẩm https://shopee.vn/B%C3%A0n-l%C3%A0m-vi%E1%BB%87c-b%E1%BA%B1ng-da-PU-hai-m%E1%BA%B7t-B%C3%A0n-ph%C3%ADm-chu%E1%BB%99t-ch%E1%BB%91ng-n%C6%B0%E1%BB%9Bc-Di-%C4%91%E1%BB%99ng-K%C3%ADch-th%C6%B0%E1%BB%9Bc-l%E1%BB%9Bn-Mi%E1%BA%BFng-l%C3%B3t-chu%E1%BB%99t-i.196261835.24728661334?sp_atk=64cfade3-38ed-4712-abfd-76bb1205d334&xptdk=64cfade3-38ed-4712-abfd-76bb1205d334: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Lỗi khi scraping sản phẩm https://shopee.vn/USB-thu-s%C3%B3ng-wifi-Gutek-WD46-1200mbps-2-r%C3%A2u-n%C3%A2ng-WiFi-l%C3%AAn-5G-cho-m%C3%A1y-t%C3%ADnh-pc-laptop-t%E1%BA%A7n-s%E1%BB%91-2.4G-5G-i.95677581.19590137429?sp_atk=07923af5-3188-40b3-b5f1-eb4a47a58560&xptdk=07923af5-3188-40b3-b5f1-eb4a47a58560: HTTPConnectionPool(host='localhost', port=55831): Max retries exceeded with url: /session/4bfa2a0ef10d3f204db237d604cb3db4/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021BAFFA0100>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 1
+# Page 2
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 1
+# Page 0
+# Page 0
+# Page 1
+# Page 2
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 1
+# Page 0
+# Page 0
+# Page 2
+# Page 0
+# Page 2
+# Page 4
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 1
+# Page 0
+# Page 0
+# Page 0
+# Page 0
+# Page 1
+# Page 2
+# Page 3
+# Page 4
+# Page 5
+# Page 6
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
+# Page 13
+# Page 14
+# Page 15
+# Page 16
+# Page 17
+# Page 18
+# Page 19
+# Page 0
+# Page 1
+# Page 2
+# Page 3
+# Page 4
+# Page 5
+# Page 6
+# Page 7
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
+# Page 13
+# Page 14
+# Page 15
+# Page 16
+# Page 17
+# Page 18
+# Page 19
+# Page 7
+# Page 8
+# Page 7
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Page 12
+# Page 13
+# Page 14
+# Page 15
+# Page 16
+# Page 17
+# Page 18
+# Page 19
+# Page 8
+# Page 8
+# Page 9
+# Page 10
+# Page 11
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 0
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 0
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 0
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 1
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 2
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 3
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 4
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 5
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 6
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 7
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 8
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 9
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 10
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 11
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 12
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 13
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 14
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 15
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 16
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 17
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 18
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 19
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 0
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 1
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 2
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 3
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 4
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 5
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 6
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 7
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 8
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 9
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 10
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 11
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 12
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 13
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 14
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 15
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 16
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 17
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 18
+# Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 19
