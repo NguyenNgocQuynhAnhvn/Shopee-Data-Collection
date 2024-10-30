@@ -180,10 +180,13 @@ Lỗi khi scraping sản phẩm https://shopee.vn/USB-thu-s%C3%B3ng-wifi-Gutek-W
 # Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 18
 # Brand: Máy-Ảnh-Máy-Quay-Phim-cat.11036101, Page: 19
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Page 0
 # Page 0
 # Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 0
 =======
+=======
+>>>>>>> 45227f9abd6dd5130f9d91b26f47de590c7cb71f
 # Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 0
 # Page 11
 # Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 11
@@ -265,4 +268,12 @@ Lỗi khi scraping sản phẩm https://shopee.vn/USB-thu-s%C3%B3ng-wifi-Gutek-W
 # Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 6
 # Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 6
 # Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 6
+<<<<<<< HEAD
 >>>>>>> 2727d892f5a18a9ede3c25a8a139df930836d719
+=======
+=======
+# Page 0
+# Page 0
+# Brand: Điện-Thoại-Phụ-Kiện-cat.11036030, Page: 0
+>>>>>>> origin/main
+>>>>>>> 45227f9abd6dd5130f9d91b26f47de590c7cb71f
