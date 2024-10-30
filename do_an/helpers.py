@@ -8,11 +8,11 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
 
 
 
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+
 
 def scroll_down(driver, pct=0.55, time_sleep=1):
     try:
@@ -140,10 +140,6 @@ def extract_feedback(soup) -> list:
         })
     
     return feedbacks
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
-from selenium.webdriver.common.action_chains import ActionChains
 
 def scrape_all_feedback(driver, max_pages=30):
     all_feedbacks = []
