@@ -1,4 +1,4 @@
-🛍️ Shopee Data Collection & Analysis Preparation
+# Shopee Data Collection & Analysis Preparation
 
 📘 Giới thiệu
 
