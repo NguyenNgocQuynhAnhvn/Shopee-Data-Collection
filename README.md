@@ -1,4 +1,5 @@
 🛍️ Shopee Data Collection & Analysis Preparation
+
 📘 Giới thiệu
 
 Dự án Shopee Data Collection được thực hiện với mục tiêu thu thập, xử lý và lưu trữ dữ liệu sản phẩm từ nền tảng Shopee nhằm chuẩn bị cho bài toán phân tích cảm xúc người dùng (User Sentiment Analysis).
